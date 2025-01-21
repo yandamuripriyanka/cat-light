@@ -1,0 +1,16 @@
+.container{
+    background-color: black;
+    text-align: center;
+}
+.catImage{
+    width:300px
+}
+.bulbimage{
+    width:150px
+}
+.switch-board{
+    
+    background-color:beige;
+    height:200px;
+    width:500px
+}
